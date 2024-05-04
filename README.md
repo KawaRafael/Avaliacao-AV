@@ -1,4 +1,4 @@
-Repositório para avalição AV conforme requerido pelo professor Heleno cardoso de arquitetura de computadores.
+Repositório para avalição AV conforme requerido pelo professor Heleno Cardoso da disciplina arquitetura de computadores.
 
 Alunos:
 Kawã Rafael Almeida de Souza(Responsavel pelo repositório direcionado ao professor);
